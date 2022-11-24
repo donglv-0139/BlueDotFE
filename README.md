@@ -30,3 +30,5 @@ Styled component các viết khá giống với sass/scss. Ưu điểm có thể
 npm run dev
 http://127.0.0.1:5173/
 
+
+** Mọi người làm thì tạo sang nhánh mới nhé.
